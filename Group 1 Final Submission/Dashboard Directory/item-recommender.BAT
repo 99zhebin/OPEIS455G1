@@ -1,0 +1,1 @@
+C:\Python310\python.exe "C:\Users\99zhe\Desktop\ThaiCulturalPresentation\itemRecommender.py"
