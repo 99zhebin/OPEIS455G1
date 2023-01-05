@@ -2,3 +2,5 @@
 Overseas Project Experience in Thailand for Osotspa
 
 Course in AY2022-2023 Semester 1 under Professor Fwa Hua Leong. Project done for Thai FMCG company Osotspa.
+Team consists of Nguyen Tung Lam, Yeo Yu Quan, Huang Jiayi, Lim Xiao Yvonne and Myself.
+I mostly worked on the Dashboard (Overview Page and Bundle Prediction Page) and integrating the Apriori model into the dashboard
